@@ -11,7 +11,8 @@ const posts = [
     title: "UX review presentations",
     content:
       "How do you create compelling presentations that wow your colleagues and impress your managers?",
-    thumbail: "",
+    thumbail:
+      "https://s3-alpha-sig.figma.com/img/92f9/d44d/896aad9fd5981c841633a846ddb6994b?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QKUyo7n7wkv~yjfh1-DF4-jlrmxtPCaXfgo5YDpvC9vDSLCW0Vs7yCm9i8ocGUpwv-W9yXIp6hxU1Xw8ccYydKuoIw6hTv9nE1Cy2dUcbIzP-qAExdGJnx071tIvG6fm-TTSEaCzeOUzc2EHzw8p0lMXmcK6mcNbGiif1fBL4eOcTrsqtqR8Yxz-dL-TQLl9CKQhOOWF3ZgzJnrsWZjpACaBi11a2tIF-yyBPoFYVrrBHr90GywrnQ-O7TTx1dufzTpHtTGwUO7tQglz362WAuwF6QnCi5jNF1ojiJv063H42Hy0bf4yFGM3PUbVyzhm2ufy5k9RAvQyfLPV83U0BQ__",
     author: {
       name: "Olivia Rhye",
       profile:
@@ -24,7 +25,8 @@ const posts = [
     title: "Migrating to Linear 101",
     content:
       "Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get started.",
-    thumbail: "",
+    thumbail:
+      "https://s3-alpha-sig.figma.com/img/a4c5/2ab3/a3c522719b54dd45b1795921034a3f00?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NDrIKwVr9Bg-rsBFsi9B0tYlIPDZsLSLlUmJfRznBZpUEnSL~oJB7C~6I-HV~KAeeoodnPMt16eMhdmZknZE-qbUH4NshEPq4YFgvxMQe8FobQppe-8HMHyD8rWsrWV5JhvEMmes~PeG57rtL48JwvFxDtitQCgwcmj97WzhnWYAJVvGvKHwARauC6NVoSL5ucxqDtBlZnft2ctDEVmS01VTj6LrQThfjsvD-6qLHgb-ZpXHjZasoqNHkTqMV1B-WaHisvF1aGB3Zh7oZwgjiyelpnUQAALWNvMzM026oFY9uy9ocdYk0MOAUbLOfQpXBPPUtfCILXQOOtMzdqrxgQ__",
     author: {
       name: "Phoenix Baker",
       profile:
@@ -38,7 +40,8 @@ const posts = [
     title: "Building your API stack",
     content:
       "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and managing them.",
-    thumbail: "",
+    thumbail:
+      "https://s3-alpha-sig.figma.com/img/e2d0/7def/1dbd591c5182a37dfedc9ff110ae94d9?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Acy1mH9gUr-Hc1TagW9uf6wIFDSuy7cJ6fnNkiPSNztTxsZlhgALceGARFFrKdI4T54CclGP1QSXvtJR23UhUZl9aLYtkDqr1I0q-WCjK5keQzZMYtsTgegZQ3VZpo422uJI6SPrAnyF5CGN3~yey6T67drIFZWV-UpsVa0xozxaDs9vQ9RFIcK-oEfcqQfCpM1kjtligBQlHLV1hqIIFrprOuuU7Sa1MCS6qzgVwkoh0z95IMI0x0HuuEXRJtr9hkSiqcI6YYZboG1Q11t~gwhwn5p7Xfl-75R90B6zU4Lr3VI1WvOgmg5iqRk3IlXae8uopMC0vYpko1u34noJnw__",
     author: {
       name: "Lana Steiner",
       profile:

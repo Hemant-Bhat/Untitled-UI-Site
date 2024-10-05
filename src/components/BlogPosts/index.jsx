@@ -12,7 +12,10 @@ export default () => {
           category={d.category}
           author={d.author}
           content={d.content}
-          thumbail="https://www.contentviewspro.com/wp-content/uploads/2017/07/default_image.png"
+          thumbail={
+            d.thumbail ||
+            "https://www.contentviewspro.com/wp-content/uploads/2017/07/default_image.png"
+          }
           postedOn={d.postedOn}
         />
       ))}
